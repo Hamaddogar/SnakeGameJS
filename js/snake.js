@@ -75,7 +75,7 @@ function setvaluesnakedemo() {
         snakeX++;
     } else if (dir == "left") {
         snakeX--;
-    } else if (dir == "top") {
+    } else if (dir == "up") {
         snakeY--;
     } else if (dir == "down") {
         snakeY++;
